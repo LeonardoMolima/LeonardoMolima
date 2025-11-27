@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/leonardo-expedito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- ##
+
  
  ### Main skills:
 <div style="display: inline_block"><br>
@@ -31,5 +31,7 @@
   <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Leonardo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=520ADF&height=120&section=footer"/>
